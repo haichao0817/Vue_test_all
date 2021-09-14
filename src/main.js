@@ -27,12 +27,6 @@ library.add(far)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon);
 
-Vue.config.productionTip = false;
-
-
-
-Vue.config.productionTip = false;
-
 
 Vue.prototype.$echarts = echarts;
 Vue.prototype.$axios = axios;
